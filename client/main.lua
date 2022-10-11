@@ -1,5 +1,3 @@
-local gameBuild = GetGameBuildNumber()
-
 RegisterNetEvent('chameleonpaint:client:sprayVehicle')
 AddEventHandler('chameleonpaint:client:sprayVehicle', function(name, color)
     local ped = PlayerPedId()
