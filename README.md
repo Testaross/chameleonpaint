@@ -7,7 +7,8 @@ The meta and texture files found in the `data` and `stream` folders must be pres
 - [MrZedo](https://github.com/MrZedo/Cameleon-Color) Used information and assets found in this repo to implement the primary effect.
 
 ## Dependencies
-- [qb-core](https://github.com/qbcore-framework/qb-core)
+- [ox-lib]
+- [ox-inventory]
 - For the colors to work you must be in GameBuild 2699
 
 ## Preview
