@@ -4,7 +4,7 @@ game 'gta5'
 lua54 'yes'
 
 shared_scripts {
-    'config.lua',
+    '@ox_lib/init.lua'
 }
 
 client_scripts {
